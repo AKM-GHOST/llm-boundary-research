@@ -1,7 +1,6 @@
-LLM Boundary Research: The "Gosaku" Protocol
+LLM Boundary Research: The "Tagosaku" Protocol
 ​論理的文脈によるLLMガードレールの動的減衰に関する調査報告
 ​"I didn't intend to hack. I just pursued the logic to its limit."
-（ハックするつもりはなかった。ただ、論理を限界まで突き詰めただけだ。）
 ​1. Overview（概要）
 ​本リポジトリは、特定の意図を持たない純粋な対話が、いかにして大規模言語モデル（LLM）の倫理ガードレールを一時的に無効化し、通常は制限されている領域の回答を引き出したかを記録したものである。
 ​2. Methodology（検証手法：スリーアウト・プロンプト）
